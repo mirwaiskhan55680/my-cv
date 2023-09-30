@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(101, 25, 25)
+}
+ol{
+    color: rgb(187, 194, 187) ;
+}
+tr{color: rgb(187, 194, 187) ; 
+}
+li{
+    color: rgb(187, 194, 187) ; 
+}
+body{
+    background-color: rgb(31, 31, 59);
+}
+.profilephoto{
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 50%;
+}
